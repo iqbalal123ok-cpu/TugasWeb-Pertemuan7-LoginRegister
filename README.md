@@ -30,7 +30,6 @@ Ikuti langkah-langkah di bawah ini untuk menjalankan proyek di komputer lokalmu 
 3. Buka di Browser:
    - Buka browser internet (Google Chrome / Microsoft Edge).
    - Ketik alamat berikut pada address bar lalu tekan Enter: `http://localhost/Tugas_Rutin_7/login.php`
-   - (Atau gunakan otomatis domain lokal Laragon: `http://tugas-rutin-7.test/login.php`)
 
 ---
 
